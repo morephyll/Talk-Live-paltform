@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/myImage">
+        <file>picture/logo_exe.png</file>
+        <file>picture/logo_exe.png</file>
+    </qresource>
+    <qresource prefix="/DesktopRec">
+        <file>picture/close.svg</file>
+        <file>picture/close_hover.svg</file>
+        <file>picture/logo_exe.ico</file>
+        <file>picture/logo_exe.png</file>
+        <file>picture/min.svg</file>
+        <file>picture/min_hover.svg</file>
+        <file>picture/rec.svg</file>
+        <file>picture/rec_hover.svg</file>
+        <file>picture/rec_logo.svg</file>
+        <file>picture/recing.svg</file>
+        <file>picture/recing_hover.svg</file>
+        <file>picture/set.svg</file>
+        <file>picture/set_hover.svg</file>
+        <file>picture/skin.svg</file>
+        <file>picture/skin_hover.svg</file>
+        <file>picture/skin_dark.qss</file>
+        <file>picture/skin_white.qss</file>
+    </qresource>
+</RCC>
